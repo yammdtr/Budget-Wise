@@ -1,0 +1,6 @@
+{
+  "name": "PocketLedger",
+  "description": "Minimalist, user-first budget tracking assistant with instant quick-keypad entry, multi-catalog expense tracking, and local-first CSV ledger storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
